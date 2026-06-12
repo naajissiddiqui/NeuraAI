@@ -1,5 +1,4 @@
 # 🚀 NeuraAI - AI-Powered Career Guidance Platform
-
 ## 📌 Overview
 
 **NeuraAI** is an AI-powered career guidance platform designed to help students, fresh graduates, and professionals streamline their job application journey. The platform leverages **Google Gemini AI** to provide intelligent career assistance through ATS-friendly resume creation, personalized cover letter generation, and AI-driven interview preparation.
